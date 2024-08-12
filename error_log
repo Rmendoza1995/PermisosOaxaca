@@ -1,0 +1,346 @@
+[04-Aug-2020 11:41:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in C:\xampp\htdocs\SERVICES\configuracion.php:11
+Stack trace:
+#0 C:\xampp\htdocs\SERVICES\verificar.php(3): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\SERVICES\configuracion.php on line 11
+[04-Aug-2020 12:01:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in C:\xampp\htdocs\SERVICES\configuracion.php:11
+Stack trace:
+#0 C:\xampp\htdocs\SERVICES\verificar.php(3): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\SERVICES\configuracion.php on line 11
+[10-Mar-2024 11:37:17 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 11:37:17 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 11:39:13 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 11:39:13 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 11:52:09 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 11:52:09 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 11:53:04 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 11:53:04 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 11:53:35 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 11:53:35 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 11:55:46 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 11:55:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 11:55:46 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 11:55:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 11:56:34 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 11:56:34 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 11:56:34 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 11:56:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 11:59:37 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 11:59:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 11:59:37 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 11:59:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:06 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:06 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:10 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:10 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:26 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:26 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:38 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:00:38 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:00:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:03:49 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:03:49 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:03:49 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:03:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:03:52 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:03:52 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:03:52 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:03:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:07:00 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:07:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:07:00 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:07:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:07:02 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:07:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:07:02 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:07:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:07:04 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:07:04 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:07:04 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:07:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:10:58 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:10:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:10:58 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:10:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:11:31 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:11:31 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:11:31 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:11:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:11:41 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:11:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:11:41 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:11:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:11:50 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:11:50 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 9
+[10-Mar-2024 12:11:50 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:11:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:12:34 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:12:34 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:12:34 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:12:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 30
+[10-Mar-2024 12:13:39 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:13:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:13:39 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:13:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:15:29 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:15:29 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:15:29 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:15:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:17:52 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:17:52 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:17:52 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:17:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:18:32 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 12:18:32 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 12:30:44 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:30:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:30:44 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:30:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:32:22 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:32:22 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:32:22 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:32:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:33:17 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:33:17 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:33:17 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:33:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:33:46 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:33:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:33:46 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:33:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:34:51 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:34:51 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:34:51 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:34:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:35:02 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:35:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:35:02 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:35:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:35:06 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:35:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:35:06 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:35:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:35:37 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:35:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:35:37 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:35:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:36:09 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:36:09 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:36:09 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:36:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:36:37 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 7
+[10-Mar-2024 12:36:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 7
+[10-Mar-2024 12:36:37 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 28
+[10-Mar-2024 12:36:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 28
+[10-Mar-2024 12:36:47 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 7
+[10-Mar-2024 12:36:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 7
+[10-Mar-2024 12:36:47 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 28
+[10-Mar-2024 12:36:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 28
+[10-Mar-2024 12:37:09 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:37:09 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:37:09 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:37:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:39:36 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:39:36 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:39:36 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:39:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:39:48 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:39:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:39:48 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:39:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:40:10 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:40:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:40:10 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:40:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:41:58 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:41:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:41:58 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:41:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:42:43 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:42:43 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:42:43 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:42:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:42:54 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:42:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[10-Mar-2024 12:42:54 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:42:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 29
+[10-Mar-2024 12:44:11 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:44:11 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:44:11 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:44:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:44:36 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:44:36 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:44:36 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:44:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:45:20 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:45:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:45:20 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:45:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:45:52 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:45:52 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:45:52 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:45:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:46:31 America/Mexico_City] PHP Warning:  include(Configuracion.php): Failed to open stream: No such file or directory in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:46:31 America/Mexico_City] PHP Warning:  include(): Failed opening 'Configuracion.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 12
+[10-Mar-2024 12:46:31 America/Mexico_City] PHP Warning:  Undefined variable $link in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:46:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/validatr/public_html/FinanzasTenencia/qr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 33
+[10-Mar-2024 12:56:03 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 12:56:03 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 12:56:47 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[10-Mar-2024 12:56:47 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[10-Mar-2024 19:01:16 America/Mexico_City] PHP Deprecated:  urlencode(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/validatr/public_html/FinanzasTenencia/qr.php on line 8
+[11-Mar-2024 09:51:55 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 09:51:55 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 09:51:55 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 09:51:55 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:04:55 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:04:55 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:08:12 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:08:12 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:27:46 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:27:46 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:27:57 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:27:57 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:34:41 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:34:41 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:36:33 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:36:33 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
+[11-Mar-2024 12:36:40 America/Mexico_City] PHP Warning:  Undefined variable $codigoenvio in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 174
+[11-Mar-2024 12:36:40 America/Mexico_City] PHP Warning:  Undefined variable $parte in /home1/validatr/public_html/FinanzasTenencia/ver.php on line 175
